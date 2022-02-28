@@ -17,9 +17,8 @@
   ],
   "homepage": "https://github.com/Virendra-Yadav/navigation-with-data#readme",
   "peerDependencies": {
-    "@angular/common": "^9.1.13",
-    "@angular/core": "^9.1.13",
-    "@angular/router": "9.1.13"
+    "@angular/common": "^10.2.5",
+    "@angular/core": "^10.2.5"
   },
   "author": "Virendra Yadav <virendra.yadav.1000@gmail.com> (https://www.linkedin.com/in/virendraayadav//)",
   "main": "bundles/ngx-navigation-with-data.umd.js",
@@ -33,8 +32,8 @@
   "metadata": "ngx-navigation-with-data.metadata.json",
   "sideEffects": false,
   "dependencies": {
-    "@angular/compiler": "^9.1.13",
-    "@angular/router": "9.1.13",
+    "@angular/compiler": "^10.2.5",
+    "@angular/router": "10.2.5",
     "tslib": "^1.9.0"
   },
   "devDependencies": {
