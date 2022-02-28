@@ -19,7 +19,7 @@
   "peerDependencies": {
     "@angular/common": "^9.1.13",
     "@angular/core": "^9.1.13",
-    "@angular/router": "13.2.4"
+    "@angular/router": "9.1.13"
   },
   "author": "Virendra Yadav <virendra.yadav.1000@gmail.com> (https://www.linkedin.com/in/virendraayadav//)",
   "main": "bundles/ngx-navigation-with-data.umd.js",
@@ -33,8 +33,8 @@
   "metadata": "ngx-navigation-with-data.metadata.json",
   "sideEffects": false,
   "dependencies": {
-    "@angular/compiler": "^13.2.4",
-    "@angular/router": "13.2.4",
+    "@angular/compiler": "^9.1.13",
+    "@angular/router": "9.1.13",
     "tslib": "^1.9.0"
   },
   "devDependencies": {
