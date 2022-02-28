@@ -17,8 +17,8 @@
   ],
   "homepage": "https://github.com/Virendra-Yadav/navigation-with-data#readme",
   "peerDependencies": {
-    "@angular/common": "^8.2.14",
-    "@angular/core": "^8.2.14",
+    "@angular/common": "^9.1.13",
+    "@angular/core": "^9.1.13",
     "@angular/router": "13.2.4"
   },
   "author": "Virendra Yadav <virendra.yadav.1000@gmail.com> (https://www.linkedin.com/in/virendraayadav//)",
